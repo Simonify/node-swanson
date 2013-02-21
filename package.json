@@ -1,0 +1,13 @@
+{
+  "name": "Swanson",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Simon Fletcher"
+    }
+  ],
+  "dependencies": {
+    "handlebars": "~1.0.9",
+    "jquery": "~1.8.3"
+  }
+}
